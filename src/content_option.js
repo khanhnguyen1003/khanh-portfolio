@@ -13,7 +13,7 @@ const introdata = {
     },
     description: "Welcome to my portfolio, on this website you can find my information. I'm Khanh, I'm a developer, I hope to bring value to everyone.",
     slogan: "- simplity is the ultimate sophistication -",
-    your_img_url: 'http://localhost:3000/khanhportfolio-right.png',
+    your_img_url: 'http://194.233.68.63:3000/khanhportfolio-right.png',
 };
 
 const dataabout = {
